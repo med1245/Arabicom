@@ -1,12 +1,12 @@
 [{
     "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/aymanbest/Arabico",
+    "repositoryUrl": "https://github.com/med1245/arabicomm",
     "fileSize": 16194,
     "status": 0,
     "language": "ar",
     "authors": [
-        "kingslayer_007"
+        "kingslayer_001"
     ],
     "tvTypes": [
         "TvSeries",
@@ -16,7 +16,7 @@
     ],
     "version": 16,
     "internalName": "FaselHDProvider",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/FaselHDProvider.cs3",
+    "url": "https://github.com/med1245/arabicomm/blob/main/build/FaselHDProvider.cs3",
     "name": "FaselHDProvider"
 },
 {
